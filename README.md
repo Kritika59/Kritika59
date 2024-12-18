@@ -1,11 +1,9 @@
-:
 
 👋 Hi, I’m @Kritika59
-
 👀 I’m interested in robotics, home automation, and exploring cutting-edge technologies.
 🌱 I’m currently learning advanced IoT systems and diving deeper into real-time data analysis.
 💞️ I’m looking to collaborate on projects related to home automation, AI, and machine learning applications.
-📫 How to reach me: You can connect with me via email at kritika59@example.com or on LinkedIn.
+📫 How to reach me: You can connect with me via email at skritika596@gmail.com or on LinkedIn.
 😄 Pronouns: She/Her
 ⚡ Fun fact: I love experimenting with sensors and automating everyday tasks to make life smarter!
 
